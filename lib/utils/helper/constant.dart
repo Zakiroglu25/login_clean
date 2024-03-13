@@ -5,6 +5,7 @@ class Constants {
 
   String appName = "Flutter Auth App";
   String english = "English";
+
   String bahasa = "Bahasa";
 
 
